@@ -1,6 +1,6 @@
 {
   "SamplingFrequency": 60,
-  "StartTime": -0.12,
+  "StartTime": 10,
   "Columns": [
     "Time",
     "VAS"
