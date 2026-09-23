@@ -3,6 +3,5 @@
   - Fixed wrong StartTime in *_resp.json (-0.12 -> 10)
   - Fixed sidecars to be BIDS-compatible
   - Updated citation in dataset_description.json
-
 1.0.0 2025-10-21
   - initial release
