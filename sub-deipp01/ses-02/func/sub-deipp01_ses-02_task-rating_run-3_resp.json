@@ -2,15 +2,15 @@
   "SamplingFrequency": 60,
   "StartTime": 10,
   "Columns": [
-    "Time",
-    "VAS"
+    "time",
+    "rating_intensity"
   ],
-  "Time": {
-    "Description": "continuous time in relation to the start of displaying rating scale",
+  "time": {
+    "Description": "Continuous time in relation to the start of displaying rating scale",
     "Units": "s"
   },
-  "VAS": {
-    "Description": "continuous visual analogue scale (VAS) rating for pain intensity",
+  "rating_intensity": {
+    "Description": "Continuous visual analogue scale (VAS) rating for spontaneous pain intensity",
     "Units": "arbitrary"
   }
 }

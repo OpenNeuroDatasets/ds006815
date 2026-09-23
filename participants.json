@@ -7,7 +7,7 @@
     "Description": "sex of the participant as reported by the participant",
     "Levels": {
       "M": "male",
-      "F": "Female"
+      "F": "female"
     }
   },
   "handedness": {
@@ -27,6 +27,6 @@
   },
   "timestamp": {
     "Description": "date of data acquisition",
-    "Units": "ISO 8601, yyyy-MM-dd"
+    "Format": "date"
   }
 }
