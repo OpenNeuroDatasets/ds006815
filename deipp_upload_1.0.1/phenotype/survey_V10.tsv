@@ -1,9 +1,0 @@
-participant_id	session_id	PCS_T	PCS_R	PCS_M	PCS_H	CPVI_I	CPVI_S	CPVI_D	CFQ	CPAQ_T	CPAQ_AE	CPAQ_PW	timestamp
-sub-deipp01	ses-00	19	6	2	11	24	17	7	24	76	45	31	2022-07-06
-sub-deipp01	ses-10	22	8	2	12	18	13	5	24	60	33	27	2022-10-05
-sub-deipp01	ses-20	10	3	1	6	18	14	4	24	62	31	31	2023-02-04
-sub-deipp02	ses-00	18	11	2	5	19	1	18	13	9	6	3	2022-04-01
-sub-deipp02	ses-10	37	14	8	15	18	5	13	37	20	5	15	2022-06-16
-sub-deipp02	ses-20	40	14	7	19	18	1	17	34	20	5	15	2022-10-25
-sub-deipp03	ses-00	43	14	6	23	27	2	25	44	30	14	16	2022-03-11
-sub-deipp03	ses-10	46	14	9	23	25	5	20	30	50	18	32	2022-06-08
