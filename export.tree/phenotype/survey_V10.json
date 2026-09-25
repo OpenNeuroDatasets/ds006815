@@ -1,0 +1,54 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "questionnaires for every ten visits (V10)",
+    "TermURL": "N/A"
+  },
+  "PCS_T": {
+    "Description": "Pain Catastrophizing Scale (PCS) total score, 0-52",
+    "Units": "summed Likert scores"
+  },
+  "PCS_R": {
+    "Description": "Pain Catastrophizing Scale (PCS) rumination score, 0-16",
+    "Units": "summed Likert scores"
+  },
+  "PCS_M": {
+    "Description": "Pain Catastrophizing Scale (PCS) magnification score, 0-12",
+    "Units": "summed Likert scores"
+  },
+  "PCS_H": {
+    "Description": "Pain Catastrophizing Scale (PCS) helplessness score, 0-24",
+    "Units": "summed Likert scores"
+  },
+  "CPVI_I": {
+    "Description": "Chronic Pain Values Inventory (CPVI) importance score, 0-30",
+    "Units": "summed Likert scores"
+  },
+  "CPVI_S": {
+    "Description": "Chronic Pain Values Inventory (CPVI) success score, 0-30",
+    "Units": "summed Likert scores"
+  },
+  "CPVI_D": {
+    "Description": "Chronic Pain Values Inventory (CPVI) discrepancy between importance and success scores, -30-30",
+    "Units": "N/A"
+  },
+  "CFQ": {
+    "Description": "Cognitive Fusion Questionnaire (CFQ) score, 7-49",
+    "Units": "summed Likert scores"
+  },
+  "CPAQ_T": {
+    "Description": "Chronic Pain Acceptance Questionnaire (CPAQ) total score, 0-120",
+    "Units": "summed Likert scores"
+  },
+  "CPAQ_AE": {
+    "Description": "Chronic Pain Acceptance Questionnaire (CPAQ) active engagement score, 0-66",
+    "Units": "summed Likert scores"
+  },
+  "CPAQ_PW": {
+    "Description": "Chronic Pain Acceptance Questionnaire (CPAQ) pain willingness score, 0-54",
+    "Units": "summed Likert scores"
+  },
+  "timestamp": {
+    "Description": "date of data acquisition",
+    "Units": "ISO 8601, yyyy-MM-dd"
+  }
+}
