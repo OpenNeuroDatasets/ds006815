@@ -1,0 +1,66 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "questionnaires for every visit (V1)",
+    "TermURL": "N/A"
+  },
+  "VAS_D": {
+    "Description": "Visual Analogue Scale (VAS) rating for pain intensity of today, 0-100",
+    "Units": "arbitrary"
+  },
+  "VAS_WA": {
+    "Description": "Visual Analogue Scale (VAS) rating for average pain intensity in the past week, 0-100",
+    "Units": "arbitrary"
+  },
+  "VAS_WW": {
+    "Description": "Visual Analogue Scale (VAS) rating for worst pain intensity in the past week, 0-100",
+    "Units": "arbitrary"
+  },
+  "Drug": {
+    "Description": "type of medication taken today",
+    "Levels": {
+      "None": "no medication",
+      "Nonpain": "medication for non-pain symptoms, including antidepressants and anxiolytics",
+      "Pain": "medication for pain"
+    }
+  },
+  "SFMPQ_T": {
+    "Description": "Short-form McGill Pain Questionnaire (SF-MPQ) total score, 0-45",
+    "Units": "summed Likert scores"
+  },
+  "SFMPQ_S": {
+    "Description": "Short-form McGill Pain Questionnaire (SF-MPQ) sensory score, 0-33",
+    "Units": "summed Likert scores"
+  },
+  "SFMPQ_A": {
+    "Description": "Short-form McGill Pain Questionnaire (SF-MPQ) affective score, 0-11",
+    "Units": "summed Likert scores"
+  },
+  "PainDETECT": {
+    "Description": "PainDETECT score, -1-38",
+    "Units": "summed Likert scores"
+  },
+  "WPI": {
+    "Description": "Widespread Pain Index (WPI) score, 0-19",
+    "Units": "number of items"
+  },
+  "SSS": {
+    "Description": "Symptom Severity Scale (SSS) score, 0-12",
+    "Units": "summed Likert scores"
+  },
+  "HADS_T": {
+    "Description": "Hospital Anxiety and Depression Scale (HADS) total score, 0-42",
+    "Units": "summed Likert scores"
+  },
+  "HADS_A": {
+    "Description": "Hospital Anxiety and Depression Scale (HADS) anxiety score, 0-21",
+    "Units": "summed Likert scores"
+  },
+  "HADS_D": {
+    "Description": "Hospital Anxiety and Depression Scale (HADS) depression score, 0-21",
+    "Units": "summed Likert scores"
+  },
+  "timestamp": {
+    "Description": "date of data acquisition",
+    "Units": "ISO 8601, yyyy-MM-dd"
+  }
+}
